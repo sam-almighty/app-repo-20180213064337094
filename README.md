@@ -3,6 +3,7 @@
 ## Basic Starter
 Basic IBM Cloud Mobile Starter in Java
 
+
 [![](https://img.shields.io/badge/bluemix-powered-blue.svg)](https://bluemix.net)
 [![](https://img.shields.io/badge/platform-android-lightgrey.svg?style=flat)](https://developer.android.com/index.html)
 
